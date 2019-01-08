@@ -1,1 +1,1 @@
-worker: node src/yukikaze.js
+worker: node .

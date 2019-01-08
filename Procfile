@@ -1,1 +1,1 @@
-worker: yarn lint
+worker: yarn lint && node dist/yukikaze.js

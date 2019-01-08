@@ -1,1 +1,1 @@
-worker: tsc --init
+worker: ts-node src/yukikaze.ts

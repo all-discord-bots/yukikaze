@@ -1,1 +1,1 @@
-worker: npm run build && node gulpfile.js
+worker: npm run prebuild

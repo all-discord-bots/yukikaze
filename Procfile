@@ -1,1 +1,1 @@
-worker: npm run prebuild
+worker: yarn lint

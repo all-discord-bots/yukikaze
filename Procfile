@@ -1,1 +1,1 @@
-worker: npm run build && node src/yukikaze.ts
+worker: npm run build && node gulpfile.js
